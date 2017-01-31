@@ -1,0 +1,32 @@
+{
+  "name": "todo-app",
+  "version": "0.0.0",
+  "description": "TodoApp",
+  "main": "server.js",
+  "author": {
+    "name": "Ganesh_M"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "pg": "^6.1.2",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.30.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-inject": "^4.2.0",
+    "gulp-istanbul": "^1.1.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-less": "^3.3.0",
+    "gulp-mocha": "^3.0.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-uglify": "^2.0.1",
+    "karma": "^1.4.0",
+    "wiredep": "^4.0.0"
+  }
+}
